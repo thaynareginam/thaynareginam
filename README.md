@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @thaynareginam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey! Welcome to my profile!🖖🦄
 
-<!---
-thaynareginam/thaynareginam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Thayna Regina, I am  from BRAZIL , I am a student of Fron-end Development since 2020. 👩🏻‍💻
+I am in constant search for knowledge, especially focused on technology and personal development.
+
+🌍 **“ Quanto mais eu sei, mais eu sou ”** 🧠
+
+📍From SP living in São Paulo
+🌈studying Web Full Stack ~   **Labenu**
