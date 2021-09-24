@@ -19,8 +19,7 @@ Reach me out 👇🏼
 
 
 
- ![image](https://user-images.githubusercontent.com/79390113/134647444-901f6929-3cc9-49c0-a82a-eccc0a305433.png)
-
+ ![image](https://user-images.githubusercontent.com/79390113/134647525-0ab10fd8-f0f6-49f4-90c6-93b3ea0aad48.png)
 
 
 
