@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 
-Reach me out 👇🏼            ![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
+Reach me out 👇🏼                                                                              ![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
 
 
 
