@@ -7,6 +7,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 📍From SP living in São Paulo
 🌈studying Web Full Stack ~   **Labenu**
+
+
+
+
+
 Reach me out 👇🏼
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynaregina/)](https://www.linkedin.com/in/thaynaregina/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/itezztai/)](https://www.instagram.com/itezztai/) 
