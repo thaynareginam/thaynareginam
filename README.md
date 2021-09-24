@@ -16,7 +16,6 @@ Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaynaregina/)](https://www.linkedin.com/in/thaynaregina/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/itezztai/)](https://www.instagram.com/itezztai/) 
 <a href = "mailto:thaynareginam@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
 ![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
 
 
