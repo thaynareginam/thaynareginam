@@ -3,7 +3,7 @@
 My name is Thayna Regina, I am  from BRAZIL🌞 , I am a student of Fron-end Development since 2020. 👩🏻‍💻
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-🌍 **“ Quanto mais eu sei, mais eu sou ”** 🧠
+🌍 **“ Quanto mais eu sei, mais eu sou ”** 🧠                                                                 ![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
 
 📍From SP living in São Paulo
 🌈studying Web Full Stack ~   **Labenu**
@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 
-Reach me out 👇🏼                                                                              ![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
+Reach me out 👇🏼               
 
 
 
