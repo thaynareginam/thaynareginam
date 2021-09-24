@@ -18,8 +18,7 @@ Reach me out 👇🏼
 <a href = "mailto:thaynareginam@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-
- ![image](https://user-images.githubusercontent.com/79390113/134647525-0ab10fd8-f0f6-49f4-90c6-93b3ea0aad48.png)
+![image](https://user-images.githubusercontent.com/79390113/134647892-9fbcbad6-3bff-452b-9fe8-fe2cb6692f7c.png)
 
 
 
