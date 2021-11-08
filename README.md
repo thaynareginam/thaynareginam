@@ -1,8 +1,8 @@
 ## :woman:🦄 Olá, meu nome é <strong>{Thayná}!</strong>
 
 - 🤔 &nbsp; Acredito que sempre tive vocação para a área e foi em meio a códigos que me encontrei profissionalmente.
-- 🎓 &nbsp; Estudando **WEB FULL STACK* no <a href="link da sua faculdade">Labenu</a>.
-- 🌱 &nbsp; Aprendendo mais sobre ** Node.js , Typescript , Unit Testing ,Firebase , Jest ...**.
+- 🎓 &nbsp; Estudando **WEB FULL STACK* na <a href="https://www.labenu.com.br/">Labenu</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Node.js , Typescript , Unit Testing ,Firebase , Jest ...**.
 
 ----
 
