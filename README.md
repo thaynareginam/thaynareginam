@@ -25,5 +25,5 @@
 [![instagram: thayna](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/itezztai/)](https://www.instagram.com/itezztai/)
 [![email ](https://img.shields.io/badge/-thaynareginam@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaynareginam@hotmail.com)](mailto:thaynareginam@hotmail.com)
 [![linkidin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link&link=https://www.linkedin.com/in/thaynaregina/)](https://www.linkedin.com/in/thaynaregina/)
-[![whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white=https://linkwhats.app/2b9ad8/)](https://linkwhats.app/2b9ad8/)
+[![whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://linkwhats.app/2b9ad8/)](https://linkwhats.app/2b9ad8/)
 
