@@ -23,5 +23,5 @@
 ##  💌 Me envie uma mensagem!
 
 [![instagram: thayna](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/itezztai/)](https://www.instagram.com/itezztai/)
-[![email ](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaynareginam@hotmail.com)](mailto:thaynareginam@hotmail.com)
+[![email ](https://img.shields.io/badge/-thaynareginam@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaynareginam@hotmail.com)](mailto:thaynareginam@hotmail.com)
 
