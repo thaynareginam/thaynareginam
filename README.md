@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Foi em meio a códigos que me encontrei profissionalmente.
 - 🎓 &nbsp; Estudando **WEB FULL STACK* na <a href="https://www.labenu.com.br/">Labenu</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Node.js , Typescript , Unit Testing ,Firebase , Jest ...**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node.js , Unit Testing ,Firebase , Jest ...**.
 
 ----
 
